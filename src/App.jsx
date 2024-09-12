@@ -11,7 +11,7 @@ import Productdetail from './pages/Productdetail'
 import SignIn from './pages/SignIn'
 const App = () => {
   return (
-    <>
+    <>     
       <Router>
         <Routes>
           <Route path="/" element={<Home/>}/>
